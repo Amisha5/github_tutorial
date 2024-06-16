@@ -14,7 +14,7 @@ Add modified files in staging area
 
 ### git add .
 
-### git add *.html
+### git add \*.html
 
 Commit staged files to git repo
 
@@ -32,4 +32,6 @@ Check commit history
 
 Push code to GitHub repo
 
-### git push / git push origin main
+### git push
+
+### git push origin main
